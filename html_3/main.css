@@ -1,0 +1,92 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-size: cover;
+}
+h1{
+	padding:10px 0 0 10px;
+}
+span{
+	color: red;
+}
+.logo{
+	margin-left: 5px;
+	margin-top: 7%;
+}
+
+.heading{
+	margin-top: -28%;
+	text-align: left;
+	color: white;
+	font-size: 25px;
+}
+.a{
+	margin-left: 16%;
+	color: white;
+	margin-top: 2%;
+}
+h2{
+	color: black;
+}
+.personal{
+	margin-left: 17%;
+	color: rgb(10, 10, 10);
+	margin-top:3%;
+}
+.personal1{
+	line-height:25px;
+	margin-left: 17%;
+	color: darkblue;
+	margin-top:1%;
+}
+.skills{
+	color: rgb(10, 10, 10);
+	margin-left: 17%;
+	margin-top:1%;
+}
+.education{
+	margin-left: 17%;
+	margin-top:1%;
+}
+
+.achievements{
+	padding-top: 50px;
+	margin-left: 65%;
+	margin-top:-34%;
+	color: white;
+}
+
+.achievements1{
+	line-height:25px;
+	margin-left: 65%;
+	margin-top:1%;
+	color: darkblue;
+}
+
+.contact{
+	padding-top: 100px;
+	line-height:25px;
+	margin-top:-5%;
+	margin-left: 1%;
+	color: darkblue;
+}
+
+.skills{
+	line-height:25px;
+	margin-left: 65%;
+	margin-top:2%;
+	color: darkblue;
+}
+
+.aim{
+	line-height:25px;
+	margin-left: 17%;
+	margin-top:-2%;
+	color: darkblue;
+}
+.ab{
+	padding: 0 0 20px 20px;
+}
